@@ -1,0 +1,6 @@
+#include "../Source/Student/Project_1/Trees/Example.bht"
+#include "../Source/Student/Project_1/Trees/GoblinBehaviour.bht"
+#include "../Source/Student/Project_1/Trees/Idle.bht"
+#include "../Source/Student/Project_1/Trees/PlayerBehaviour.bht"
+#include "../Source/Student/Project_1/Trees/SwordBehaviour.bht"
+#include "../Source/Student/Project_1/Trees/WizardBehaviour.bht"
